@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/Ficus83/warzone/assets/147512322/dc3f3878-52ca-4e51-8909-a0c7914ac904)
+
 
 # Ghost Bull Undetected | Private WarZone 2.0 Hack + Unlocker Items
 

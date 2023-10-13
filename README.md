@@ -5,7 +5,7 @@
   
 # <a id="about-info"></a>[🚀 About Menu]
    
-- Free hack written in C++, C#
+- Free hack written in C++, C# 
 
 - Undetected 2023
       
